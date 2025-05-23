@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.app',
+  appId: 'com.anhe.khmall',
   appName: 'ionic-app-base',
   webDir: 'www'
 };
