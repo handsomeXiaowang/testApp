@@ -1,6 +1,6 @@
 # testApp
-node 22.11.0
+# node 22.11.0
 
-npm install
+# npm install
 
-xcode运行就行
+# xcode运行就行
