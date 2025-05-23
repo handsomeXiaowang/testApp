@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  background: #fff;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.player {
+  width: 100vw;
+  height: calc(100vw / 16 * 9);
+}
+
+.menu {
+  flex: 1 1;
+  min-height: 300px;
+  overflow: hidden;
+}
